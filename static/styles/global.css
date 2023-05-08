@@ -1,5 +1,8 @@
 :root {
     --body-bg-color: #D5E1EF;
+    --card-bg-color: #FFFFFF;
+    --heading-text-color: #1F314F;
+    --body-text-color: #7D889E;
 }
 
 * {
