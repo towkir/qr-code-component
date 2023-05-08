@@ -2,7 +2,7 @@
     <div class="qr-code-container">
         <img class="qr-code" src="/images/qr-code.svg" alt="qr-code">
     </div>
-    <h2>Improve your front-end skills by building projects</h2>
+    <h1>Improve your front-end skills by building projects</h1>
     <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
 </div>
 
@@ -29,7 +29,7 @@
         width: 160px;
         height: 160px;
     }
-    .qr-code-card h2 {
+    .qr-code-card h1 {
         font-size: 22px;
         line-height: 28px;
         color: var(--heading-text-color);

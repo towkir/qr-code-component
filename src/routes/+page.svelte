@@ -1,7 +1,7 @@
 <script>
     import QRCode from "./QRCode.svelte";
 </script>
-<div class="component-wrapper">
+<div class="component-wrapper" role="main">
     <QRCode />
 </div>
 
