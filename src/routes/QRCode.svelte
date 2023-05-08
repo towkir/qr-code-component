@@ -1,6 +1,6 @@
 <div class="qr-code-card">
     <div class="qr-code-container">
-        <img class="qr-code" src="/images/qr-code.svg" alt="qr-code">
+        <img class="qr-code" src="/images/qr-code.svg" alt="QR code for https://www.frontendmentor.io/">
     </div>
     <h1>Improve your front-end skills by building projects</h1>
     <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
