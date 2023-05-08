@@ -1,2 +1,19 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import QRCode from "./QRCode.svelte";
+</script>
+<div class="component-wrapper">
+    <QRCode />
+</div>
+
+<svelte:head>
+    <title>QR Code Component</title>
+</svelte:head>
+
+<style>
+    .component-wrapper {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+</style>
