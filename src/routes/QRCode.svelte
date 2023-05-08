@@ -21,7 +21,7 @@
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
-        padding: 60px;
+        padding: 62px;
         border-radius: 10px;
         margin-bottom: 24px;
     }
@@ -37,8 +37,8 @@
     }
     .qr-code-card p {
         font-size: 15px;
-        line-height: 20px;
+        line-height: 19px;
         color: var(--body-text-color);
-        margin: 16px;
+        margin: 16px 16px 24px;
     }
 </style>
